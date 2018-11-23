@@ -1,0 +1,45 @@
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+h3 {
+  font-style: italic;
+  line-height: 30px;
+}
+
+#p1 {
+  font-family: 'Roboto', cursive;
+}
+
+#p2 {
+  font-family: 'Black Han Sans', cursive;
+}
+
+#p3 {
+  font-family: 'Ranga', cursive;
+}
+
+#p4 {
+  font-family: 'Kirang Haerang', cursive;
+}
+
+#p1:hover {
+  font-family: 'Amatic SC', cursive;
+  font-size: 24px;
+}
+
+#p2:hover {
+  font-family: 'Kirang Haerang', cursive;
+  font-size: 24px;
+}
+
+#p3:hover {
+  font-family: 'Poor Story', cursive;
+  font-size: 24px;
+}
+
+#p4:hover {
+  font-family: 'Lobster', cursive;
+  font-size: 24px;
+}
